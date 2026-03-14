@@ -6,4 +6,4 @@ Evenings: 4K demoscene intros and gfx exe **.klos / k2** - entire demos under 40
 
 Nights: [Pill Engine](https://github.com/sp0lsh/pill-engine) — WGPU+Rust rendering core with wasm/WebGPU support.
 
-[Blog](https://codeklos.wordpress.com) · [LinkedIn](https://linkedin.com/in/mrmichalklos/) · [X](https://x.com/_spolsh)
+[Github page](https://sp0lsh.github.io/) · [Blog](https://codeklos.wordpress.com) · [LinkedIn](https://linkedin.com/in/mrmichalklos/) · [X](https://x.com/_spolsh)
