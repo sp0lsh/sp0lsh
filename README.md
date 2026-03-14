@@ -1,5 +1,3 @@
-### Michal Klos
-
 CTO & Co-founder at [LEX AI](https://lexai.co) — LegalTech compliance monitoring.
 Previously Tech Lead AI at ShareChat (250M MAU), ByteDance/TikTok AI Lab R&D.
 
