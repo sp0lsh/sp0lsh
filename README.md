@@ -6,7 +6,7 @@ Previously Tech Lead AI at ShareChat (250M MAU), ByteDance/TikTok AI Lab R&D.
 Evenings: 4K demoscene intros and gfx exe **.klos / k2** - entire demos under 4096 bytes.
 2nd at Revision, 1st at Xenium, 1st at Demosplash. Meteorics nominee.
 
-<img src="https://sp0lsh.github.io/k2_montecarlo_hd.png" width=32%> <img src="https://sp0lsh.github.io/k2_rwb_hd.png" width=32%> <img src="https://sp0lsh.github.io/k2_quattro_hd.png" width=32%> <img src="https://sp0lsh.github.io/k2_fast_and_fouriers_lauda_drift.png" width=32%> <img src="https://sp0lsh.github.io/k2_2fast2fouriers.png" width=32%> <img src="https://sp0lsh.github.io/k2_fast_and_fouriers.png" width=32%>
+<img src="k2/k2_montecarlo_400.jpg" width=32%> <img src="k2/k2_rwb_400.jpg" width=32%> <img src="k2/k2_quattro_400.jpg" width=32%> <img src="k2/k2_fast_and_fouriers_lauda_drift_400.jpg" width=32%> <img src="k2/k2_2fast2fouriers_400.jpg" width=32%> <img src="k2/k2_fast_and_fouriers_400.jpg" width=32%>
 
 Nights: [Pill Engine](https://github.com/sp0lsh/pill-engine) — WGPU+Rust rendering core with wasm/WebGPU support.
 
